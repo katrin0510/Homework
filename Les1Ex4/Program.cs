@@ -9,10 +9,9 @@ Console.WriteLine("Введите число B: ");
 int numB= Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число C: ");
 int numC= Convert.ToInt32(Console.ReadLine());
-int max = 0;
+int max = numA;
 
 {
-    if (numA > max) max = numA;
     if (numB > max) max = numB;
     if (numC > max) max = numC;
 }
