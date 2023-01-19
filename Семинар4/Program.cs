@@ -114,6 +114,3 @@ Console.WriteLine(Math.Pow(x1,5) + Math.Pow(x2,5) + Math.Pow(x3,5) + Math.Pow(x4
 
 }
 
-
-    
-}
