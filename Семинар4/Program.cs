@@ -104,13 +104,13 @@
 // Сумма 4 чисел в 5 степени равна пятому числу в пятой степени
 // Нужно найти эти числа
 
-int x1 = new Random().Next(1,300);
-int x2 = new Random().Next(1,300);
-int x3 = new Random().Next(1,300);
-int x4 = new Random().Next(1,300);
-int x5 = new Random().Next(1,300);
-{
-Console.WriteLine(Math.Pow(x1,5) + Math.Pow(x2,5) + Math.Pow(x3,5) + Math.Pow(x4,5)) = Math.Pow(x5,5);
+// int x1 = new Random().Next(1,300);
+// int x2 = new Random().Next(1,300);
+// int x3 = new Random().Next(1,300);
+// int x4 = new Random().Next(1,300);
+// int x5 = new Random().Next(1,300);
+// {
+// Console.WriteLine(Math.Pow(x1,5) + Math.Pow(x2,5) + Math.Pow(x3,5) + Math.Pow(x4,5)) = Math.Pow(x5,5);
 
-}
+// }
 
